@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
       <h1>About Us</h1>
-      <p>This is a simple React application demonstrating routing and state management with hooks.</p>
+      <p>This is a Simple React application demonstrating routing and state management with hooks.</p>
     </div>
   );
 };
